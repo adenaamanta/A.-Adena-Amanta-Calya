@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pemrograman Python 3in1 - Beginner
 Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di bidang rekayasa informasi dan pengambilan keputusan (RIPK) (_Decision Making and Information Engineering_, DMIE)
 
@@ -54,3 +55,6 @@ __Python__ sebagaimana bahasa program lainnya, juga memiliki kemampuan melakukan
 
 #### [2 Bekerja dalam _Environment_ Spesifik](l2_environment.ipynb)
 #### [3 Github dan Git](l3_github_dan_git.md)
+
+# A.-Adena-Amanta-Calya
+ cbb8cf5e6d49381818f6a0d5a2b5866878639662
