@@ -1,0 +1,13 @@
+__pycache__
+etc
+Include
+Lib
+Scripts
+share
+pyvenv.cfg
+.git
+
+
+files/pengulangan.vsdx
+files/whc-sites-2023.csv
+files/mode_akses_file.xlsx
